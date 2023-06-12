@@ -1,0 +1,15 @@
+D:\LearningCode\VotingEligibility\obj\Debug\net7.0\VotingEligibility.csproj.AssemblyReference.cache
+D:\LearningCode\VotingEligibility\obj\Debug\net7.0\VotingEligibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningCode\VotingEligibility\obj\Debug\net7.0\VotingEligibility.AssemblyInfoInputs.cache
+D:\LearningCode\VotingEligibility\obj\Debug\net7.0\VotingEligibility.AssemblyInfo.cs
+D:\LearningCode\VotingEligibility\obj\Debug\net7.0\VotingEligibility.csproj.CoreCompileInputs.cache
+D:\LearningCode\VotingEligibility\bin\Debug\net7.0\VotingEligibility.exe
+D:\LearningCode\VotingEligibility\bin\Debug\net7.0\VotingEligibility.deps.json
+D:\LearningCode\VotingEligibility\bin\Debug\net7.0\VotingEligibility.runtimeconfig.json
+D:\LearningCode\VotingEligibility\bin\Debug\net7.0\VotingEligibility.dll
+D:\LearningCode\VotingEligibility\bin\Debug\net7.0\VotingEligibility.pdb
+D:\LearningCode\VotingEligibility\obj\Debug\net7.0\VotingEligibility.dll
+D:\LearningCode\VotingEligibility\obj\Debug\net7.0\refint\VotingEligibility.dll
+D:\LearningCode\VotingEligibility\obj\Debug\net7.0\VotingEligibility.pdb
+D:\LearningCode\VotingEligibility\obj\Debug\net7.0\VotingEligibility.genruntimeconfig.cache
+D:\LearningCode\VotingEligibility\obj\Debug\net7.0\ref\VotingEligibility.dll
